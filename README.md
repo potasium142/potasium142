@@ -1,4 +1,6 @@
-## Hi there 👋
+## ME FR 🥔 🍟 🍾
+
+![Alt text](pics/me.jpg "a title")
 
 <!--
 **potasium142/potasium142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
